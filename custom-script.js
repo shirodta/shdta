@@ -1,7 +1,5 @@
-var encodedURL = "Ly9wbDI1Nzg2NzA1LnByb2ZpdGFibGVjcG1yYXRlLmNvbS8zNi9lMy9lZi8zNmUzZWZiNzJjYmVjOTFkZjE2ZDRmNTAyMTViMjBiOS5qcw==";
-var decodedURL = atob(encodedURL);
-
+setTimeout(() => {
 var script = document.createElement("script");
-script.type = "text/javascript";
-script.src = decodedURL;
-document.head.appendChild(script);
+script.src = "//pl24962765.profitablecpmrate.com/fb/13/3c/fb133ca34aa7beeecb5577b3814b9e77.js";
+document.body.appendChild(script);
+}, 3000); // Se carga después de 3 segundos
